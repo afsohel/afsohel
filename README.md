@@ -1,13 +1,15 @@
-- 👋 Hi, I’m @afsohel
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+💫 About Me: 
+🔭 I’m currently working on:
+Improving cloud-based solutions and implementing microservices architecture.
 
-<!---
-afsohel/afsohel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-##sohel mia is good mann 
+👯 I’m looking to collaborate on:
+Fullstack projects
+
+🌱 I’m currently learning:
+Advanced AWS Services and GraphQL.
+
+💬 Ask me about:
+JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.
+
+⚡ Fun fact:
+I love creating content.
